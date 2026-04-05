@@ -1,4 +1,4 @@
-# Hi, I'm 
+# Hi, I'm Russian Immigrant
 **Full-Stack Developer | Creator of Vantix & Vbl Manager**
 
 I am  Russian Immigrant a developer focused on building high-performance web applications and automated systems. My work revolves around speed, scalability, and clean architecture.
@@ -13,7 +13,6 @@ I am  Russian Immigrant a developer focused on building high-performance web app
 * **Database:** Supabase
 
 [**Visit Vantix Website**](https://vantix-bot.vercel.app/)
-[**Dashboard**](https://vantix-dashboard.vercel.app/)
 
 ---
 
@@ -41,8 +40,8 @@ I'm active across several platforms. Feel free to reach out for collaborations o
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=russian-immigrant&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russian-immigrant&layout=compact&theme=radical)
 
 ---
 *"Building the future of Discord operations, one line of code at a time."*
