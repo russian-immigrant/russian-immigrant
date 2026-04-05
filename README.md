@@ -39,9 +39,8 @@ I'm active across several platforms. Feel free to reach out for collaborations o
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=russian-immigrant&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russian-immigrant&layout=compact&theme=radical)
+### 📊 Activity Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=russian-immigrant&theme=radical)
 
 ---
 *"Building the future of Discord operations, one line of code at a time."*
