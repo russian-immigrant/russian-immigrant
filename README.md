@@ -1,4 +1,4 @@
-# Hi, I'm Russian Immigrant
+# Hi, I'm Tocka
 **Full-Stack Developer | Creator of Vantix & Vbl Manager**
 
 I am  Russian Immigrant a developer focused on building high-performance web applications and automated systems. My work revolves around speed, scalability, and clean architecture.
